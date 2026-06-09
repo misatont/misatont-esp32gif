@@ -1,6 +1,6 @@
 # ESP32 OLED GIF Display
 Display any GIFs on an OLED (SSD1306) using an ESP32 :)
-Created by @misaprojects on TikTok
+Created by @misaprojects on TikTok (soon to be uploaded)
 
 ## Required Components
 
