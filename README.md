@@ -21,14 +21,13 @@ Created by @misaprojects on TikTok
 
 This project is made for simulation using the **Wokwi platform**.
 
-### 🧪 How to run it:
+###  How to run it:
 1. Go to https://wokwi.com
 2. Create a new ESP32 project
 3. Add an SSD1306 OLED display
 4. Paste the provided code
 5. Click **Run**
-
-> ⚠️ No physical wiring is required — everything runs in simulation
+(No physical wiring is required — everything runs in simulation)
 
 ## 🎞️ How to Create GIF Animation (ESP32 OLED Frames)
 
@@ -36,13 +35,13 @@ This guide explains how to convert a GIF into frames and display it on an SSD130
 
 ---
 
-### 🧪 Step 1 — Get a GIF
+###  Step 1 — Get a GIF
 - Go to https://giphy.com  
 - Search and download the GIF you want to use
 
 ---
 
-### ✂️ Step 2 — Split into frames
+###  Step 2 — Split into frames
 - Go to https://ezgif.com/split  
 - Upload your GIF  
 - Click **Split to frames**  
@@ -51,7 +50,7 @@ This guide explains how to convert a GIF into frames and display it on an SSD130
 
 ---
 
-### 🧠 Step 3 — Convert frames to C arrays
+###  Step 3 — Convert frames to C arrays
 - Go to https://javl.github.io/image2cpp/
 - Upload **one frame at a time**
 - Use these settings:
