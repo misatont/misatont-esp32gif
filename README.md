@@ -68,3 +68,5 @@ This guide explains how to convert a GIF into frames and display it on an SSD130
 
 ```cpp
 // BITMAP FRAMES
+const unsigned char frame1[]
+const unsigned char frame2[]
